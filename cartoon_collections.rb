@@ -20,3 +20,4 @@ def find_the_cheese(find)
   while i < cheese_types.length
   return cheese_types[i] 
 end
+end

@@ -20,6 +20,6 @@ def find_the_cheese(find)
   while i < cheese_types.length
   return cheese_types[i] if find.include? (cheese_types[i])
   i += 1 
-  true 
+ 
 end
 end

@@ -9,8 +9,8 @@ def summon_captain_planet(planeteer_calls)
     calls.capitalize << "!"
 end
 end
-def long_planeteer_calls
-  # Your code here
+def long_planeteer_calls(words)
+  words.any? do 
 end
 
 def find_the_cheese# code an argument here
